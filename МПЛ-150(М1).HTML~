@@ -41,7 +41,7 @@
  			}
  .sort {
 				transform: translateY(60em);
-				transform: translateX(7em);				
+				transform: translateX(6em);				
 				height: 50px;				
 				margin: 9em 0;
 				float: left;
@@ -52,7 +52,7 @@
 				width: 320px;
 				text-align: center;
 				/*background-color: #D3D3D3;*/
-				background-image: url("/home/vadim/Документы/Учеба/МПЛ-150(М1)/block.png");		
+				background-image: url("./block.png");		
 				float: left;
 				
 		}
