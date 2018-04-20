@@ -52,7 +52,7 @@
 				width: 320px;
 				text-align: center;
 				/*background-color: #D3D3D3;*/
-				background-image: url("./block.png");		
+				background-image: url("/home/vadim/Документы/Учеба/МПЛ-150(М1)/block.png");		
 				float: left;
 				
 		}
